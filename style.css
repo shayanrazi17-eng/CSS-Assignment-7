@@ -1,0 +1,286 @@
+*{
+margin: 0px;
+padding: 0px;
+}
+body{
+
+  background-color: #000;
+  
+}
+#Main{
+
+  width: 60%;
+  margin: auto;
+  margin-top: 150px;
+  text-align: center;
+  transform: scale(1.3);
+  /* background-color: aqua; */
+
+}
+.D1,.D2,.D3,.D4{
+
+    width: 25px;
+    height: 25px;
+    margin: 10px;
+    padding: 7px;
+    background-color: white;
+    color: white;
+    border: 1px solid #000;
+    border-radius: 30px;
+
+}   
+.D1{
+    display: inline-block; 
+}
+    .D2{
+display: inline-block;
+    }
+    .D3{
+        display: inline-block;
+    }
+    .D4{
+        display: inline-block;
+    }
+
+
+#Red{
+
+    background-color: #d60000;
+    width: 140px;
+    height: 120px;
+    padding: 19px;
+    display: inline-block;
+    
+} 
+  #Blue{
+
+     background-color: #0033ce;
+     width: 140px;
+     height: 120px;
+     padding: 19px;
+     display: inline-block;
+     margin-left: -4px;
+
+  }
+  #Green{
+
+    background-color: #009042;
+    width: 139px;
+    height: 120px;
+    padding: 19px;
+    display: inline-block;
+    position: relative;
+    top: -17px;
+   
+  }
+  #Yellow{
+
+     background-color: #ffcd00;
+     width: 139px;
+     height: 120px;
+     padding: 19px;
+     display: inline-block;
+     margin-left: -4px;
+     position: relative;
+     top: -17px;
+
+}
+ 
+ #FS1{
+   
+    display: inline-block;
+    position: relative;
+    top: 13px;
+    border-collapse: collapse;
+    margin-left: -4.5px;
+
+ }
+
+
+ #T1>td{
+
+    background-color: white;
+    color: white;
+    border: 0.5px solid #000;
+    width: 28px;
+    height: 32px;
+
+ }
+ #T2>Td{
+
+    background-color: white;
+    color: white;
+    border: 0.5px solid #000;
+    width: 28px;
+    height: 30px;
+
+ }
+
+ #T3>Td{
+
+    background-color: white;
+    color: white;
+    border: 0.5px solid #000;
+    width: 28px;
+    height: 30px;
+
+ }
+
+  #T4>Td{
+
+    background-color: white;
+    color: white;
+    border: 0.5px solid #000;
+     width: 28px;
+    height: 30px;
+
+ } 
+
+ #T5>Td{
+
+    background-color: white;
+    color: white;
+    border: 0.5px solid #000;
+    width: 28px;
+    height: 30px;
+
+ } 
+ #FS2{
+   
+    display: inline-block;
+    position: relative;
+    top: -5px;
+    border-collapse: collapse;
+    margin-left: -4.5px;
+
+ }
+  #P1>td{
+
+    background-color: white;
+    color: white;
+    border: 0.5px solid #000;
+    width: 27px;
+    height: 30px;
+
+ }
+ #P2>Td{
+
+    background-color: white;
+    color: white;
+    border: 0.5px solid #000;
+    width: 27px;
+    height: 30px;
+
+ }
+ #P3>Td{
+
+    background-color: white;
+    color: white;
+    border: 0.5px solid #000;
+    width: 27px;
+    height: 30px;
+
+ }
+  #P4>Td{
+
+    background-color: white;
+    color: white;
+    border: 0.5px solid #000;
+    width: 27px;
+    height: 30px;
+
+ } 
+ #P5>Td{
+
+    background-color: white;
+    color: white;
+    border: 0.5px solid #000;
+    width: 27px;
+    height: 32px;
+ 
+
+ } 
+ #FS3{
+ 
+    display: inline-block;
+    border-collapse: collapse;
+    margin: auto;
+    text-align: center;
+    position: relative;
+    left: -44px; 
+    
+ }
+ #GG1>td{
+
+    background-color: white;
+    color: white;
+    border: 0.5px solid #000;
+    width: 34.5px;
+    height: 30px;
+
+ }
+ #GG2>td{
+
+    background-color: white;
+    color: white;
+    border: 0.5px solid #000;
+    width: 34.5px;
+    height: 32px;
+
+ }
+  #GG3>td{
+
+    background-color: white;
+    color: white;
+    border: 0.5px solid #000;
+    width: 34.5px;
+    height: 30px;
+
+ }
+
+#FS4{
+   
+    display: inline-block;
+    border-collapse: collapse;
+    margin: auto;
+    text-align: center;
+    position: relative;
+    right: -43px;
+    
+ }
+ #GG4>td{
+
+    background-color: white;
+    color: white;
+    border: 0.5px solid #000;
+    width: 34.5px;
+    height: 30px;
+
+ }
+ #GG5>td{
+
+    background-color: white;
+    color: white;
+    border: 0.5px solid #000;
+    width: 34.5px;
+    height: 32px;
+
+ }
+  #GG6>td{
+
+    background-color: white;
+    color: white;
+    border: 0.5px solid #000;
+    width: 34.5px;
+    height: 30px;
+
+ }
+ img{
+
+  position: absolute;
+  top: 34.25%;
+  left: 42.5%;
+  transform: scale(1.2);
+  
+ }
+
